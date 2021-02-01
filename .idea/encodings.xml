@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/gobblets/Gobblets.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/gobblets/data/Case.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/gobblets/data/Couleur.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/gobblets/ihm/texte/SaisieConsole.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/gobblets/interaction/Deplacement.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/gobblets/interaction/Placement.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/gobblets/logic/CaseBloqueeException.java" charset="windows-1252" />
+    <file url="PROJECT" charset="windows-1252" />
+  </component>
+</project>
